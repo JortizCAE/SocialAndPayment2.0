@@ -1,0 +1,27 @@
+[
+  {
+    "id": 34,
+    "name": "Home",
+    "url": "/"
+  },
+  {
+    "id": 92,
+    "name": "Social",
+    "url": "/"
+  },
+  {
+    "id": 64,
+    "name": "Details",
+    "url": "/"
+  },
+  {
+    "id": 33,
+    "name": "Competitions",
+    "url": "/competition"
+  },
+  {
+    "id": 35,
+    "name": "Dashboard",
+    "url": "/"
+  }
+]

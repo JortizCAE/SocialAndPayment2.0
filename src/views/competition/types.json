@@ -1,0 +1,47 @@
+{
+  "title": "Select Types",
+  "items": [
+    {
+      "id": 5675,
+      "name": "Type 84",
+      "describe": "Lorem ipsum dolor sit amet,",
+      "thumb": ["/images/Group 148.svg", "/images/Group 149.svg"]
+    },
+    {
+      "id": 56757,
+      "name": "Type 23",
+      "describe": "Lorem ipsum dolor sit amet,",
+      "thumb": ["/images/Group 148.svg", "/images/Group 149.svg"]
+    },
+    {
+      "id": 4565,
+      "name": "Type 64",
+      "describe": "Lorem ipsum dolor sit amet,",
+      "thumb": ["/images/Group 148.svg", "/images/Group 149.svg"]
+    },
+    {
+      "id": 123,
+      "name": "Type 44",
+      "describe": "Lorem ipsum dolor sit amet,",
+      "thumb": ["/images/Group 148.svg", "/images/Group 149.svg"]
+    },
+    {
+      "id": 677,
+      "name": "Type 1",
+      "describe": "Lorem ipsum dolor sit amet,",
+      "thumb": ["/images/Group 148.svg", "/images/Group 149.svg"]
+    },
+    {
+      "id": 6656,
+      "name": "Type 1",
+      "describe": "Lorem ipsum dolor sit amet,",
+      "thumb": ["/images/Group 148.svg", "/images/Group 149.svg"]
+    },
+    {
+      "id": 678,
+      "name": "Type 1",
+      "describe": "Lorem ipsum dolor sit amet,",
+      "thumb": ["/images/Group 148.svg", "/images/Group 149.svg"]
+    }
+  ]
+}

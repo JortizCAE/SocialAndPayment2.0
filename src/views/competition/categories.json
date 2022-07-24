@@ -1,0 +1,49 @@
+{
+  "title": "Select Category",
+  "unselect": {
+    "width": 91,
+    "height": 90
+  },
+  "select": {
+    "width": 108,
+    "height": 106
+  },
+  "items": [
+    {
+      "id": 6345,
+      "name": "Type 01",
+      "describe": "Lorem ipsum dolor sit amet,",
+      "thumb": ["/images/Group 148.svg", "/images/Group 149.svg"]
+    },
+    {
+      "id": 457,
+      "name": "Type 62",
+      "describe": "Lorem ipsum dolor sit amet,",
+      "thumb": ["/images/Group 148.svg", "/images/Group 149.svg"]
+    },
+    {
+      "id": 978,
+      "name": "Type 33",
+      "describe": "Lorem ipsum dolor sit amet,",
+      "thumb": ["/images/Group 148.svg", "/images/Group 149.svg"]
+    },
+    {
+      "id": 75567,
+      "name": "Type 85",
+      "describe": "Lorem ipsum dolor sit amet,",
+      "thumb": ["/images/Group 148.svg", "/images/Group 149.svg"]
+    },
+    {
+      "id": 76843,
+      "name": "Type 19",
+      "describe": "Lorem ipsum dolor sit amet,",
+      "thumb": ["/images/Group 148.svg", "/images/Group 149.svg"]
+    },
+    {
+      "id": 7897,
+      "name": "Type 81",
+      "describe": "Lorem ipsum dolor sit amet,",
+      "thumb": ["/images/Group 148.svg", "/images/Group 149.svg"]
+    }
+  ]
+}
